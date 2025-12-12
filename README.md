@@ -17,5 +17,8 @@ Live Site:
 - ✅ ASH TV Dev branding  
 - ✅ Clean typography and UI  
 - ✅ Beginner‑friendly content  
+---
+
+## 📁 Project Structure
 
 
